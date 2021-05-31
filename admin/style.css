@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background: #343a40;
+    color: #ffffff;
+    height: 50px;
+
+}
+nav h2{
+    padding: 5px;
+}
+.admin-panel{
+    height: auto;
+}
+
+.admin-panel .col-2{
+
+    padding: 15px;
+    height: 800px;
+    background: #212529;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+.admin-panel .col-10{
+    display: block;
+    text-align: end;
+    margin-top: 10px;
+}
+.admin-panel .col-10 form input ,
+.admin-panel .col-10 form textarea,
+.admin-panel .col-10 form select{
+    text-align: end;
+}
+.admin-panel .col-2 .list-item a{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.75);
+
+}
+
+.table td, .table th{
+    vertical-align: middle;
+    text-align: center;
+}
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            background: #007bec;
+            color: #fff;
+            font-size: 1.5em;
+            font-weight: 400;
+            text-align: right;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .main {
+            position: relative;
+            background: #ffffff;
+            color: #0e5698;
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0 50px 50px rgba(0, 0, 0, 0.2);
+            min-height: 250px;
+            min-width: 400px;
+        }
+
+        h1 {
+            font: 30px sans-serif;
+            text-align: center;
+            margin: 25px 10px;
+            font-weight: bold;
+            color: #4a96db;
+        }
+
+        input,
+        button,
+        select,
+        textarea {
+            display: block;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            margin-top: 10px;
+            line-height: 28px;
+            height: 30px;
+            padding: 0 10px;
+            width: 100%;
+            box-sizing: border-box;
+            font-family: sans-serif;
+            font-size: 15px;
+        }
+
+        button {
+            background: #007bec;
+            color: #fff;
+            line-height: 40px;
+            height: 40px;
+            font-size: 18px;
+            border: 0;
+        }
+
+        button:hover {
+            opacity: 0.7;
+            cursor: pointer;
+        }
+        
+
+
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            background: #fc6b03 ;
+            color: rgb(92, 51, 51);
+            font-size: 1.5em;
+            font-weight: 400;
+            text-align: right;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .main {
+            position: relative;
+            background: #ffffff;
+            color: #fc6b03;
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0 50px 50px rgba(0, 0, 0, 0.2);
+            min-height: 250px;
+            min-width: 400px;
+        }
+
+        h1 {
+            font: 30px sans-serif;
+            text-align: center;
+            margin: 25px 10px;
+            font-weight: bold;
+            color: #4a96db;
+        }
+
+        input,
+        button,
+        select,
+        textarea {
+            display: block;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            margin-top: 10px;
+            line-height: 28px;
+            height: 30px;
+            padding: 0 10px;
+            width: 100%;
+            box-sizing: border-box;
+            font-family: sans-serif;
+            font-size: 15px;
+        }
+
+        button {
+            background: #007bec;
+            color: #fff;
+            line-height: 40px;
+            height: 40px;
+            font-size: 18px;
+            border: 0;
+        }
+
+        button:hover {
+            opacity: 0.7;
+            cursor: pointer;
+        }
